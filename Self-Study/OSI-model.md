@@ -47,10 +47,10 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
 
 - Examples: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and DNS (Domain Name System).
 
-Key Points
-Encapsulation and Decapsulation: As data passes from the application layer to the physical layer, each layer adds its own header (encapsulation). Conversely, when data is received, each layer removes its corresponding header (decapsulation).
+### Key Points
+- Encapsulation and Decapsulation: As data passes from the application layer to the physical layer, each layer adds its own header (encapsulation). Conversely, when data is received, each layer removes its corresponding header (decapsulation).
 
-Protocols and Standards: Each layer operates based on specific protocols and standards that ensure interoperability between different hardware and software systems.
+- Protocols and Standards: Each layer operates based on specific protocols and standards that ensure interoperability between different hardware and software systems.
 
 ### Importance of the OSI Model
 1. Standardization: It provides a standard framework that different vendors and developers can follow, ensuring interoperability.

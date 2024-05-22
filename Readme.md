@@ -7,8 +7,8 @@ Express.js: A lightweight web framework for Node.js that simplifies building API
 AngularJS: A powerful framework for creating interactive user interfaces.<br>
 Node.js: A JavaScript runtime environment that allows execution of server-side JavaScript code.<br>
 
-![result](Task\images\17.png)<br><br><br>
-![result](Task\images\18.png)
+![result](Task/images/17.png)<br><br><br>
+![result](Task/images/18.png)
 
 
 This documentation provides a comprehensive overview of setting up and utilizing each component of the MEAN stack to develop the Book Register web applications.

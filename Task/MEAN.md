@@ -131,7 +131,7 @@ app.use(bodyParser.json());
 require('./apps/routes')(app);
 app.set('port', 3000);
 app.listen(app.get('port'), function(){
-    console.log('Server up: http://local:' + app.get('port'));
+    console.log('Server up: http://localhost:' + app.get('port'));
 });
 ```
 
@@ -373,6 +373,20 @@ $ cd ..
 
 4. Start the server 
 ```bash
-node server.js v
+node server.js 
 ```
+![node](images/16.png)<br><br>
 
+5. Access the Book Register web application from the internet with a browser using:
+
+```bash
+http://server-public-ip:3000
+```
+![node](images/17.png)<br><br>
+
+![node](images/18.png)<br><br>
+
+
+
+## Conclusion
+Congratulations! We have successfully set up and deployed a simple Book Register web form using the MEAN stack. This application allows you to add, view, and delete books from a MongoDB database through a web interface powered by AngularJS.
